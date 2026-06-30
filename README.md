@@ -3,6 +3,7 @@
 **Won 1st place at HackDUCS (Delhi University).** Built in 36 hours. See the app and certificate: [LinkedIn Post](https://www.linkedin.com/posts/pushkarshukla0_first-hackathon-top-8-second-hackathon-activity-7454614214268088320-Rrtb?utm_source=share&utm_medium=member_android&rcm=ACoAAELhGXkBJ2CN4tZx-0uarVgTpK6UeCgMc4w)
 
 Play Store · Coming Soon
+<img width="4096" height="1820" alt="IMG_20260426_174015 jpg" src="https://github.com/user-attachments/assets/03061a2a-8e8d-458c-b54f-bcf46c64d8bb" />
 
 ---
 
